@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Super Cool Post",
+            "Author": "Super John Smith"
+        },
+        {
+            "title": "My Super Cool Post2",
+            "Author": "Super John Smith2"
+        }
+    ],
+    "profile": {
+        "first_name": "Paolo Super",
+        "last_name": "Climaco Super",
+        "email": "paoloSuper@gmail.com"
+    }
+}

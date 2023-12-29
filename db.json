@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Cool Post",
+            "Author": "John Smith"
+        },
+        {
+            "title": "My Cool Post2",
+            "Author": "John Smith2"
+        }
+    ],
+    "profile": {
+        "first_name": "Paolo",
+        "last_name": "Climaco",
+        "email": "paoloclimaco01@gmail.com"
+    }
+}
